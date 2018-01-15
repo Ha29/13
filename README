@@ -1,0 +1,11 @@
+TO PLAY THE GAME, click on the jar file in /dist/
+
+/src/ directory contains java code used to create the project
+
+/CardPictures/ directory contains .png files used for the GUI
+of this project
+
+/dist/ contains the jar file which is the executable file that runs
+the GUI to play the game
+
+/test/ contains various tests for certain classes of the code
