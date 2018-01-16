@@ -1,16 +1,22 @@
 ========================
 REQUIREMENTS
 ========================
-jre 1.8 or higher
+For Ubuntu Users:
 
-sudo add-apt-repository ppa:webupd8team/java
-sudo apt update; sudo apt install oracle-java8-installer
-sudo apt install oracle-java8-set-default
+	jre 1.8, jdk 1.8, or higher
 
-javafx
+	sudo add-apt-repository ppa:webupd8team/java
+	sudo apt update; sudo apt install oracle-java8-installer
+	sudo apt install oracle-java8-set-default
 
-sudo apt-get install openjfx
+	javafx
 
+	sudo apt-get install openjfx
+
+For Windows Users:
+	
+	jre 1.8, jdk 1.8, or higher
+	https://java.com/en/
 
 ========================
 BUILD OUTPUT DESCRIPTION
